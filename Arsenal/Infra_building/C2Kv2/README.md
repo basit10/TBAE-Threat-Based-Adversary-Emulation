@@ -1,3 +1,2 @@
-# C2Kv2
+# C2Kv2.01
 Updated version of C2K
-More info comming soon...
