@@ -1,0 +1,7 @@
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

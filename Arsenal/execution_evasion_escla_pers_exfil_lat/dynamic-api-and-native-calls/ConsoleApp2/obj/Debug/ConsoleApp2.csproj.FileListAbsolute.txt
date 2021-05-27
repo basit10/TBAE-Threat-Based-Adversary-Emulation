@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\native c#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ABDUL BASIT AJMAL\Desktop\ResearchExperiments\nativec#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
