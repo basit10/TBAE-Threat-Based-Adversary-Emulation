@@ -1,3 +1,6 @@
-YARA Rules from orignal repo, 
+There are two types of threat rseearch, that are presneted in rseearch
+**1** Active
+**2** Passive
 
-and othe rsources are disscused in second half of chapter 3
+YARA Rules from orignal repo
+### throughly disscused in second half of chapter 3
