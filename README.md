@@ -1,5 +1,5 @@
 # Threat-Based-Adversary-Emulation
-Our goal here is to replicate threats in stalthy way and emulate unknown attack paths.
+TBAE is a light version of adversary emulation, where we emphasis on indivual techniques to achieve our objectives. Our goal here is to replicate threats in stalthy way and emulate unknown attack paths.
 Reference point for TTP's is ATT&CK and for threats we are using different security blogs, threat research forums, threat intelligence to build understanding for threats.
 ![APPROACH](figures_files_ppt/approach.PNG)
 **Repository contains Arsenal related directories**
