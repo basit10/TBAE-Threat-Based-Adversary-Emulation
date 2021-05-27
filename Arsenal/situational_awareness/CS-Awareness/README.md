@@ -1,18 +1,3 @@
-# Situational Awareness BOF
-This Repo intends to serve two purposes.  First it provides a nice set of basic situational awareness commands implemented in BOF.  This allows you to perform some checks on a host before you begin executing commands that may be more invasive.
-
-Its larger goal is providing a code example and workflow for others to begin making more BOF files.  It is a companion document of the blog post made here: https://www.trustedsec.com/blog/a-developers-introduction-to-beacon-object-files/
-
-## Making a new BOF
-If you want to use the same workflow as this repository, your basic steps are as follows
-1. Make a folder that covers the target topic, for example in this repo we are using SA
-2. copy base_template into topic/commandname
-3. modify the Makefile to have your commandname on the first line, this should be the same as the folder name
-4. If doing something other then SA make sure to modify lines 14 / 15 of the makefile as well so its moved to the correct location
-5. Make a .cna file in the base of your topic folder and add the commands that you reference.  If you followed this format you can take the helper function readbof from SA.cna
-
-Realistically, this could be compressed into a helper script, but those steps were not taken for this effort.
-
 ## Available commands
 |command|Usage|notes|
 |-------|-----|-----|
@@ -61,7 +46,7 @@ Note the reason for including reg_query when CS has a built in reg query(v) comm
 
 #### credits
 The functional code for most of these commands was taken from the reactos project or code examples hosted on MSDN.  
-The driversigs codebase comes from https://gist.github.com/jthuraisamy/4c4c751df09f83d3620013f5d370d3b9
+The driversigs codebase comes from https://gist.github.com/jthuraisamy/4c4c751df09f83d3620013f5d370d3b9 & Trustedsec orignal repo
 
 Thank you to all of the contributors listed under contributors.  Each have contributed something meaningful to this repository and dealt with me and my review processes.  I appreciate each and every one of them for teaching me and helping to make this BOF repository the best it can be!
 
