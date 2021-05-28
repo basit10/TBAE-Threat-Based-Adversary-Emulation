@@ -1,3 +1,4 @@
+#SMEP using kuserdat share
 import struct
 import sys
 import os
